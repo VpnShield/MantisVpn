@@ -1,10 +1,10 @@
 {
-"Title": "فیلترشکن تیم Vpn Shield منتشر شد 🔥",
-"Description": "- بالاخره فیلترشکن اختصاصی تیم Vpn Shield با نام v2raySH منتشر شد ؛ اگه نیای تو کانال و تستش نکنی ضرر میکنی نگو نگفتی 😄👇🏻",
-"Link": "tg://join?invite=z49wuARWMGw5NzI8",
-"ColorWave": "#00B0FF",
-"Color": "#00B0FF",
-"ColorWaveTwo": "#00E5FF",
+"Title": "🔥 سوپرایز ویژه 🔥",
+"Description": "الان و فردا کلی کانفیگ v2ray خفن + فیلترشکنای خفن حال حاظر برای اینستا و ... تو چنل قرار میدیم ؛ پیشنهاد میدم حتما عضو شو 😎👇🏻",
+"Link": "tg://join?invite=lVZAxWcBl9pjNzlk",
+"ColorWave": "#FF5722",
+"Color": "#FF5722",
+"ColorWaveTwo": "#FF7043",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "19293984100001919393",
-"ShowTime": "5",
-"Button": " دانلود از تلگرام ",
-"ButtonCancell": " میخوام ضرر کنم  ",
+"Cancellable": "false",
+"MessageID": "01010101758582",
+"ShowTime": "3",
+"Button": " عضویت اجباری در تلگرام ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
